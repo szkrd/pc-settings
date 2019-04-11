@@ -1,0 +1,1 @@
+Set oShell = CreateObject ("WScript.Shell") : oShell.run "cmd /c start ms-settings:network-airplanemode", 0, False
